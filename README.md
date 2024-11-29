@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi there, I'm Arnaud PY
 
-<!--
-**Nonouille/Nonouille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **M2 - Architecture des Systèmes Informatiques à CentraleSupelec**  
+🌐 Triple Diplôme: Cybersécurité - Cybersécurité & Management (ESILV & EMLV)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Competencies
+
+### Programming Languages
+- **Python**, **C/C++**, **C#**, **SQL**, **Node.js**
+
+### Other Skills
+- **Design Thinking**, **Agile methodologies**, **Introduction to MITM**
+
+### Languages
+- 🇫🇷 **French**: Native  
+- 🇬🇧 **English**: TOEFL B2 Certified  
+
+---
+
+## 📚 Education
+- **CentraleSupélec** (2024-2025)  
+  - Master in IT Systems Architecture
+- **ESLV** (2020-2025)  
+  - Master in Cybersecurity
+- **La Salle Passy Buzenval**  
+  - Mathematics Baccalaureate with Honors
+
+---
+
+## 🤝 Let's Connect
+📧 Email: arnaudpy@edu.devinci.fr  
+📍 Location: Rueil-Malmaison, France  
+🔗 LinkedIn: [Arnaud PY](#)  
