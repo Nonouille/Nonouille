@@ -17,6 +17,16 @@
 - 🇫🇷 **French**: Native  
 - 🇬🇧 **English**: TOEFL B2 Certified  
 
+---  
+
+## :mage_man: Personal Projects
+ 
+### [Watchlist Provider](https://github.com/Nonouille/watchlist_providers)   
+
+Check Letterboxd watchlist and match your results with your region streaming providers catalog.   
+Available at [cine.pyarnaud.studio](https://cine.pyarnaud.studio).   
+API Documentation available at [cine.pyarnaud.studio/api/docs](https://cine.pyarnaud.studio/api/docs)   
+
 ---
 
 ## 📚 Education
