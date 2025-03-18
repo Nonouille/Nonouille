@@ -5,20 +5,6 @@
 
 ---
 
-## 🛠️ Competencies
-
-### Programming Languages
-- **Python**, **C/C++**, **C#**, **SQL**, **Node.js**
-
-### Other Skills
-- **Design Thinking**, **Agile methodologies**, **Introduction to MITM**
-
-### Languages
-- 🇫🇷 **French**: Native  
-- 🇬🇧 **English**: TOEFL B2 Certified  
-
----  
-
 ## :mage_man: Personal Projects
  
 ### [Watchlist Provider](https://github.com/Nonouille/watchlist_providers)   
@@ -41,5 +27,4 @@ API Documentation available at [cine.pyarnaud.studio/api/docs](https://cine.pyar
 
 ## 🤝 Let's Connect
 📧 Email: [arnaudpy314@gmail.com](mailto:arnaudpy314@gmail.com)   
-📍 Location: Rueil-Malmaison, France  
 🔗 LinkedIn: [Arnaud PY](https://www.linkedin.com/in/arnaud-py/)  
