@@ -30,6 +30,6 @@
 ---
 
 ## 🤝 Let's Connect
-📧 Email: arnaudpy@edu.devinci.fr  
+📧 Email: [arnaudpy314@gmail.com](mailto:arnaudpy314@gmail.com)
 📍 Location: Rueil-Malmaison, France  
-🔗 LinkedIn: [Arnaud PY](#)  
+🔗 LinkedIn: [Arnaud PY](https://www.linkedin.com/in/arnaud-py/)  
