@@ -10,8 +10,8 @@
 ### [Watchlist Provider](https://github.com/Nonouille/watchlist_providers)   
 
 Check Letterboxd watchlist and match your results with your region streaming providers catalog.   
-Available at [cine.pyarnaud.studio](https://cine.pyarnaud.studio).   
-API Documentation available at [cine.pyarnaud.studio/api/docs](https://cine.pyarnaud.studio/api/docs)   
+Available at <a href="https://cine.pyarnaud.studio" target="_blank">cine.pyarnaud.studio</a>.   
+API Documentation available at <a href="https://cine.pyarnaud.studio/api/docs" target="_blank">cine.pyarnaud.studio/api/docs</a>.   
 
 ---
 
@@ -27,4 +27,4 @@ API Documentation available at [cine.pyarnaud.studio/api/docs](https://cine.pyar
 
 ## 🤝 Let's Connect
 📧 Email: [arnaudpy314@gmail.com](mailto:arnaudpy314@gmail.com)   
-🔗 LinkedIn: [Arnaud PY](https://www.linkedin.com/in/arnaud-py/)  
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/arnaud-py/" target="_blank">Arnaud PY</a>
